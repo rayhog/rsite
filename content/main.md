@@ -4,12 +4,12 @@ title: API Reference
 ---
 ![Ray's Flex logo](/images/logo.png)
 # Introduction to Ray's Flex APIs
-Hello Hello HelloHello Hello Hello
-Hello Hello Hello
 
-Welcome to the Ray's API! lllllllllllll
+# Hello Hello HelloHello Hello Hello
 
-test test
+Welcome to the Ray's API! 
+
+*TEST TEST*<br>
 Use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
 
